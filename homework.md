@@ -20,6 +20,7 @@ In this homework, we want to turn this vague description into a clear specificat
 ## Question 1: Select your coding agent
 
 You can use any coding agent you want. Which one did you choose? 
+- github copilot
 
 
 ## Question 2: Turn the idea into a spec
@@ -39,6 +40,12 @@ Answer its questions, then ask it to save everything to a markdown file.
 
 What are the 2-4 features your spec settled on?
 
+  
+  1. **Hybrid Chore Distribution:** Combines an **automated rotation** for recurring essentials with an **effort-weighted shared pool** for flexible, ad-hoc tasks.
+  2. **Gamified Rewards System:** Surplus points earned from harder chores can be redeemed for real-world family perks (like skipping a rotation turn or picking movie night).
+  3. **Supportive ("Bienveillant") Completion & Overdue Flow:** Uses a frictionless **honor system** with an **Undo** button for accidental clicks, alongside gentle rollover reminders and a **"Request Backup"** button to voluntarily hand off tasks without guilt or penalties.
+  4. **Role-Based Mobile PWA:** A mobile-first progressive web app with push notifications and distinct profiles for **Admins/Parents** (who manage tasks and perks) and **Members/Kids** (who claim chores and redeem rewards).
+  
 ## GitHub Repository
 
 Create an empty GitHub repository, clone it locally. Create two files there:
