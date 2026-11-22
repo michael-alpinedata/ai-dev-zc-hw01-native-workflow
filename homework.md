@@ -78,6 +78,7 @@ Then give your agent the `plan.md` and ask it to propose a small backlog of task
 
 What's task 1 in the backlog your agent came up with?
 
+1. Add household and member models
 
 ## Question 5: First version
 
