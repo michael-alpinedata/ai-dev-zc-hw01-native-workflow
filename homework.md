@@ -64,7 +64,7 @@ Ask your agent to install Django and create a project and an app for it. At some
 
 What's the file you need to edit for that?
 
-- `settings.py`
+- X `settings.py`
 - `manage.py`
 - `urls.py`
 - `wsgi.py`
