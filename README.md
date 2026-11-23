@@ -14,3 +14,9 @@ uv run python manage.py runserver
 
 The Django project configuration is in `config/`, and the `chores` app is
 registered in `config/settings.py`.
+
+## Project documents
+
+- [Product specification](./_docs/plan.md)
+- [Task issue index](./_docs/tasks.md) — GitHub Issues are the canonical backlog.
+- [Work process](./_docs/process.md)

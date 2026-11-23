@@ -38,7 +38,7 @@ The app supports individual family profiles with two distinct role levels:
 ### C. Completion & Supportive Overdue Handling
 * **Honor System + Undo:** Tapping **Done** immediately logs completion, advances the rotation, and awards points—no approval bottleneck required. An **Undo** option allows users to reverse accidental taps.
 * **Supportive Reminders + "Request Backup" (Zero-Guilt Policy):**
-  * Points only ever go *up*, never down.
+  * Overdue tasks and missed weekly targets never incur point penalties. Points are awarded for completed work; a completion may be explicitly reversed with Undo, and points may be spent on reward redemptions.
   * If a rotation task passes its due time, it gently rolls over with a supportive push notification.
   * If a member is busy or overwhelmed, they can tap **"Request Backup"** to voluntarily release their rotation task into the shared pool (optionally with a small bonus point incentive) so another family member can step in to help.
 
