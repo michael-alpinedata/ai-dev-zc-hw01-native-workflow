@@ -6,6 +6,13 @@ from django.test import TestCase
 from .models import Household, Member
 
 
+class HomePageTests(TestCase):
+    def test_root_route_returns_successful_response(self):
+        response = self.client.get("/")
+
+        self.assertEqual(response.status_code, 200)
+
+
 class HouseholdModelTests(TestCase):
     def test_string_representation_is_household_name(self):
         household = Household.objects.create(name="The Smiths")
